@@ -1,0 +1,62 @@
+body, header, footer {
+    background-color: #008080;
+}
+
+header, footer {
+    color: white;
+}
+
+header {
+    font-family: "Comfortaa", bold;
+}
+
+body {
+    font-family: 'Indie Flower', Georgia;
+}
+
+h1, h2 {
+    content: 100px;
+}
+
+.title {
+    background-image: url("https://www.tomsfarms.com/v/vspfiles/assets/images/shutterstock_60565684.jpg");
+    height: 350px;
+    color: #fff;
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+.p1 {
+    position: relative;
+}
+
+.creator {
+    text-align: right;
+}
+
+.nav {
+    background-color: #E0FFFF;
+    border-color: black;
+    border-width: 5px;
+}
+
+.container .jumbotron {
+    background-color: #E0FFFF;
+}
+
+.container .jumbotron .row p {
+    font-size: 16px;
+}
+
+.container .jumbotron .col-sm-6 {
+    background-color: #E0FFFF;
+}
+
+.emphasis {
+    font-family: "Trebuchet MS", fantasy;
+    color: #8B0000;
+}
